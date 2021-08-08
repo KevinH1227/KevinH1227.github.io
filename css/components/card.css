@@ -1,0 +1,17 @@
+.god-parents{
+  display: flex;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  align-items: center;
+  margin-top: 15px;
+  justify-content: space-around;
+
+}
+
+.godfather {
+  display: inline-block;
+}
+
+.godmother {
+  display: inline-block;
+}
