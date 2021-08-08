@@ -5,18 +5,32 @@
   justify-content: space-around;
 }
 
-.restaurant {
+.restaurantmap {
   display: inline-block;
 }
 
-.church {
+.churchmap {
   display: inline-block;
 }
 
-.church h2{
+.churchmap h2{
   text-align: center;
 }
 
-.restaurant h2{
+.restaurantmap h2{
   text-align: center;
+}
+
+.church h4{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.meetus {
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin-top: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
