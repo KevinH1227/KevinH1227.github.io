@@ -1,0 +1,8 @@
+.conatiner{
+  width:500px;
+  height:220px;
+}
+
+.carousel-item{
+  object-fit: cover;
+}

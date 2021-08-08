@@ -1,24 +1,22 @@
-.god-parents{
+.map {
   display: flex;
-  background: white;
   align-items: center;
   margin-top: 15px;
   justify-content: space-around;
-
 }
 
-.godfather {
+.restaurant {
   display: inline-block;
 }
 
-.godmother {
+.church {
   display: inline-block;
 }
 
-.godmotherinfo {
-  display: inline-block;
+.church h2{
+  text-align: center;
 }
 
-.godfatherinfo {
-  display: inline-block;
+.restaurant h2{
+  text-align: center;
 }
