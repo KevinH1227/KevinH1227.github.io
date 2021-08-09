@@ -28,7 +28,7 @@
   border: thick double black;
 
 }
-.footer h5{
+.footer> h5{
   padding: 1px;
   padding-top: 6px;
   margin-top: 20px;
