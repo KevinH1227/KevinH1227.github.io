@@ -1,7 +1,9 @@
 .carousel-item{
   width:500px;
-  height:220px;
+  height:auto;
+  object-fit: fill;
 }
+
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
