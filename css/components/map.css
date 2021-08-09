@@ -3,7 +3,7 @@
 .map {
   display: flex;
   align-items: center;
-  margin-top: 15px;
+  margin-top: 30px;
   justify-content: space-around;
 }
 
@@ -31,4 +31,6 @@
 
 }
 
-
+body{
+  margin:10%;
+}

@@ -2,6 +2,7 @@
 
 .restaurant h2{
   text-align: center;
+
 }
 
 .church h2{
@@ -18,9 +19,11 @@
   border-radius: 5px;
   box-shadow: 0 0 15px rgb(39, 30, 198);
   margin-top: 10px;
+  margin-bottom: 40px;
   padding-bottom: 5px;
   padding-top: 5px;
   background-color: rgba(204, 221, 231, 0.26);
+  border: transparent;
 }
 
 h1{
@@ -32,11 +35,13 @@ padding: 20px;
 .footer {
   margin-top: 250px;
   border: thick double black;
-
+  align-content: center;
 }
 .footer> h5{
-  padding: 1px;
-  padding-top: 6px;
-  margin-top: 20px;
+
   text-align: center;
+}
+
+body{
+  padding: 50px;
 }
