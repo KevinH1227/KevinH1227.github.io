@@ -28,3 +28,9 @@
   font-size: 55px;
  /* color: black;*/
 }
+
+
+@media screen and (max-height: 1000px) {
+.carousel-item {
+height: 24rem;
+}}
