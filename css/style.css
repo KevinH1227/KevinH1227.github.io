@@ -22,3 +22,15 @@
   padding-top: 5px;
   background-color: rgba(204, 221, 231, 0.26);
 }
+
+.footer {
+  margin-top: 250px;
+  border: thick double black;
+
+}
+.footer h5{
+  padding: 1px;
+  padding-top: 6px;
+  margin-top: 20px;
+  text-align: center;
+}
