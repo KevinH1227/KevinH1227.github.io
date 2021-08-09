@@ -23,6 +23,12 @@
   background-color: rgba(204, 221, 231, 0.26);
 }
 
+h1{
+text-align: center;
+font-family: 'Gloria Hallelujah', cursive;
+padding: 20px;
+}
+
 .footer {
   margin-top: 250px;
   border: thick double black;
