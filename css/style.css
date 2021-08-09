@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+
 .restaurant h2{
   text-align: center;
 }
@@ -8,4 +11,6 @@
 
 .greeting{
   text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+
 }
